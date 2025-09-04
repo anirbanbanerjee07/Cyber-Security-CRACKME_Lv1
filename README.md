@@ -15,4 +15,4 @@ Your task is run this `exploit_File` in your system nd perform reverse engineer 
 
 
 # 📸 Screenshot
-![Screenshot Proof]("C:\Users\dell\Desktop\screenshot_proof.jpg")
+![screenshot_proof](https://github.com/user-attachments/assets/472cd71b-11e1-47eb-b6bf-83203d30e417)
