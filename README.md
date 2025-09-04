@@ -5,10 +5,10 @@
 Your task is run this `exploit_File` in your system nd perform reverse engineer and find the **valid password** hidden within. The **exploitation** works offline and does not connect to any server. All validation done locally.
 
 # 🧩 Challenge Details
-**• File Type :** Download this `.zip` file and run your local machine and find the valid password with appropriate output.
-**• Prefered OS :** Linux, MacOS
-**• Difficulty :** 🔴 Advanced
-**• Target Audience :** CyberSecurity Enthuciest, CTF Challenge, Cyber Forensics Student, RE Learner.
+**• File Type:** Download the `.zip` file, run it on your local machine, and find the valid password with the appropriate output.  
+**• Preferred OS:** Linux, macOS  
+**• Difficulty:** 🔴 Advanced  
+**• Target Audience:** Cybersecurity Enthusiasts, CTF Participants, Cyber Forensics Students, Reverse Engineering Learners
 
 # 📸 Screenshot
-![Alt text](images/screenshot_proof.jpg)
+![Alt text]("C:\Users\dell\Desktop\screenshot_proof.jpg")
