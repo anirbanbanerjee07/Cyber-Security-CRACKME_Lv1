@@ -9,9 +9,9 @@ Your task is run this `exploit_File` in your system nd perform reverse engineer 
 
 # 🧩 Challenge Details
 **• File Type:** Download the `.zip` file, run it on your local machine, and find the valid password with the output.  
-**• Preferred OS:** Linux, macOS  
+**• Preferred OS:** Linux
 **• Difficulty:** 🔴 Advanced  
-**• Target Audience:** Cybersecurity Enthusiasts, CTF Participants, Forensics Students, Reverse Engineering Learners
+**• Target Audience:** Cybersecurity Enthusiasts, CTF Participants, Forensics Students, Social & Reverse Engineering Learners
 
 
 # 📸 Screenshot
